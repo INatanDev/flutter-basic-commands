@@ -80,7 +80,7 @@ class MyApp extends StatelessWidget {
                     height: 100,
                   ),
                   Container(
-                    color: Colors.pink.shade300,
+                    color: Colors.pinkAccent,
                     width: 100,
                     height: 100,
                   ),
